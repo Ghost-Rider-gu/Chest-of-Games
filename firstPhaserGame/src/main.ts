@@ -3,7 +3,7 @@ import MainScene from "./scenes/MainScene.ts";
 
 const config: Phaser.Types.Core.GameConfig = {
     type: Phaser.AUTO,
-    parent: 'app',
+    parent: 'game-container',
     width: 800,
     height: 600,
     physics: {

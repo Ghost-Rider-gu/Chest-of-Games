@@ -1,7 +1,7 @@
 {
-  "name": "firstphasergame",
+  "name": "fantasyland",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "typescript": "^5.2.2",
-    "vite": "^5.0.8"
+    "vite": "6.3.4"
   },
   "dependencies": {
     "phaser": "^3.70.0"

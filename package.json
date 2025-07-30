@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "build-css": "tailwindcss build src/style.css -o dist/style.css",
     "preview": "vite preview"
   },
   "devDependencies": {
